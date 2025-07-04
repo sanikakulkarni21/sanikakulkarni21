@@ -17,7 +17,8 @@ About Me
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ## 📫 Contact
-📧 Email: your-email@example.com  
-🔗 LinkedIn: [linkedin.com/in/sanikakulkarni21](https://www.linkedin.com/in/sanikakulkarni21)
+📧 Email: sanikakulkarni880@gmail.com  
+🔗 LinkedIn:https://www.linkedin.com/in/sanika-kulkarni-21dev
 
 -->
+"update profile READEME"
