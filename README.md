@@ -25,7 +25,7 @@
 
 ### 📫 Contact Me
 
-📧 Email: sanikakulkarni880@gmail.com  
+📧 Email: sanika.kulkarni.dev@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/sanika-kulkarni-21dev](https://www.linkedin.com/in/sanika-kulkarni-21dev)
 
 ---
